@@ -3,7 +3,7 @@ fun main(){
     val warnaHijau = warna.Hijau
     val warnaKuning = warna.Kuning
     val warnaBiru = warna.Biru
-    
+
     println(warnaMerah)
     println(warnaHijau)
     println(warnaKuning)
