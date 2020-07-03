@@ -1,3 +1,5 @@
+//Untuk mendapatkan daftar objek Enum kita bisa menggunakan fungsi values().
+//Sedangkan untuk mendapatkan nama dari objek Enum kita bisa menggunakan fungsi valueOf()
 fun main(){
     val banyakwarna: Color2 = Color2.valueOf("Merah")
     println("Warnanya adalah $banyakwarna")
