@@ -9,6 +9,6 @@ fun main(){
     val range = awal.rangeTo(batas) step pertambahannya
 
     range.forEach{
-        print("$it")
+        print("$it ")
     }
 }
