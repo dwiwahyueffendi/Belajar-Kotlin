@@ -6,6 +6,6 @@ fun main(){
     val userA3 = userA1.copy(umur = 21)
 
     println(userA1)
-    println(userA2)
-    println(userA3)
+    println(userA2) //Mencopy
+    println(userA3) //Mencopy dan Memodifikasi
 }
