@@ -1,5 +1,5 @@
 class User2(val nama:String, val umur: Int){
-    override fun equals(other: Any?): Boolean {
+    override fun equals(other: Any?): Boolean {     //Harus Menginisialisasi fungsi equals + hashCode
         if(this === other) return true
         if(javaClass != other?.javaClass) return false
 
