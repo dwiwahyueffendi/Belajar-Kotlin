@@ -1,2 +1,0 @@
-package Functional.Latihan
-
