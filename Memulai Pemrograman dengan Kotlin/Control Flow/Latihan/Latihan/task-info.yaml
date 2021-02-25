@@ -10,7 +10,7 @@ files:
       length: 19
       offset: 380
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: if (number % 2 == 0) continue
   - offset: 427
@@ -20,7 +20,7 @@ files:
       length: 16
       offset: 427
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: if (number > 15) break
   - offset: 471
@@ -30,7 +30,7 @@ files:
       length: 13
       offset: 471
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: val result = number * (number + 10)
   text: |-
