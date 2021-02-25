@@ -1,6 +1,6 @@
-typealias  aritmatika = (Int, Int) -> Int
-val tambah1: aritmatika = {valueA, valueB -> valueA + valueB}
-val kali1: aritmatika = {valueA, valueB -> valueA * valueB}
+typealias  aritmatika1 = (Int, Int) -> Int
+val tambah1: aritmatika1 = {valueA, valueB -> valueA + valueB}
+val kali1: aritmatika1 = {valueA, valueB -> valueA * valueB}
 
 fun main(){
     val hasilTambah = tambah1.invoke(30, 20)
