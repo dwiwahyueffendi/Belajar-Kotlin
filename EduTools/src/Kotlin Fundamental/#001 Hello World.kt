@@ -1,3 +1,3 @@
 fun main() {
-    print("Hello Kotlin!")
+    println("Hello World")
 }

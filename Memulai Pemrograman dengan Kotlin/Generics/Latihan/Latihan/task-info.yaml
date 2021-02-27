@@ -11,7 +11,7 @@ files:
       offset: 381
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       println("""
               String result: $stringResult
@@ -25,7 +25,7 @@ files:
       offset: 442
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       return when (args) {
               is Int -> args * 5
