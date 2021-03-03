@@ -6,6 +6,7 @@ class hewan{
     }
     set(value){
         println("Fungsi Setter Terpanggil")
+        field = value
     }
 }
 
