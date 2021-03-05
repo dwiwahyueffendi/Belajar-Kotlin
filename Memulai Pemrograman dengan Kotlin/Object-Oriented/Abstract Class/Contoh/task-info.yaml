@@ -19,8 +19,6 @@ files:
         println("Abstract Class")
     }
   learner_created: false
-status: Solved
-feedback:
-  time: Wed, 03 Mar 2021 15:20:11 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true

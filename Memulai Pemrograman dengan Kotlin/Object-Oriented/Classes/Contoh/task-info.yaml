@@ -26,8 +26,6 @@ files:
         dicodingCat.sleep()
     }
   learner_created: false
-status: Solved
-feedback:
-  time: Sat, 27 Feb 2021 13:42:53 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true

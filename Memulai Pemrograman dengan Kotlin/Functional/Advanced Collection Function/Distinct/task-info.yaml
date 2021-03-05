@@ -10,8 +10,6 @@ files:
         println(distinct)
     }
   learner_created: false
-status: Solved
-feedback:
-  time: Thu, 25 Feb 2021 16:02:16 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true

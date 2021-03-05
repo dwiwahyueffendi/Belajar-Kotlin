@@ -11,8 +11,6 @@ files:
         println(slice)
     }
   learner_created: false
-status: Solved
-feedback:
-  time: Thu, 25 Feb 2021 15:48:37 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true

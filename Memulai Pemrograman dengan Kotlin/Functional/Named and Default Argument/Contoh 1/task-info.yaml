@@ -14,8 +14,6 @@ files:
         return "$first $middle $last"
     }
   learner_created: false
-status: Solved
-feedback:
-  time: Wed, 24 Feb 2021 03:12:57 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true

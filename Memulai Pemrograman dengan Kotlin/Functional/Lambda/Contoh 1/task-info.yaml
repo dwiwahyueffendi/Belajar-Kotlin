@@ -11,8 +11,6 @@ files:
 
     val printMessage = { message: String -> println(message) }
   learner_created: false
-status: Solved
-feedback:
-  time: Wed, 24 Feb 2021 07:44:48 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true
