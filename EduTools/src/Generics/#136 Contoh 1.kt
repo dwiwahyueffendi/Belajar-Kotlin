@@ -3,12 +3,12 @@ fun main() {
     val firstLong = longArrayList[0]
 }
 
-class ArrayList<T> : List<T> {
+class ArrayList<T> : List1<T> {
     override fun get(index: Int): T {
         return this[index]
     }
 }
 
-interface List<T> {
+interface List1<T> {
     operator fun get(index: Int): T
 }
