@@ -17,8 +17,6 @@ files:
     }
     */
   learner_created: false
-status: Solved
-feedback:
-  time: Sun, 07 Mar 2021 16:05:31 UTC
+status: Unchecked
 record: -1
 post_submission_on_open: true
